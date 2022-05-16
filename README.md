@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Vladimer or just Lado
+### Hi 👋 I'm Lado 
 #### I am ML engineer / Data Scientist and Molecular Biologist with Bioinformatics skills
 
 I am currently working on applications of deep learning for drug design
