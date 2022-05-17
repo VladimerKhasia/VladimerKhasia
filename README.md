@@ -3,7 +3,7 @@
 
 I am currently working on applications of deep learning for drug design
 
-Skills: Python / Numpy / Spark / Pandas / Scikit-Learn / Keras / Tensorflow / Pytorch / Scipy / Scrapy / Git / matplotlib / plotly / seaborn / FastAPI / SQLModel / PostgreSQL / MongoDB / HTML /  CSS / Javascript / React 
+Skills: Python / Numpy / Spark / Pandas / Scikit-Learn / Keras / Tensorflow / Pytorch / Scipy / Scrapy / Git / matplotlib / plotly / seaborn / FastAPI / SQLModel / PostgreSQL / MongoDB / Docker / MLFlow / HTML /  CSS / Javascript / React 
 
 
 <!---
