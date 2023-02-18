@@ -3,8 +3,12 @@
 
 I am currently working on applications of deep learning for drug design
 
-Skills: Python / Numpy / Spark / Pandas / Scikit-Learn / XGBoost / Simpy / Numba / Keras / Tensorflow / Pytorch / Scipy / Scrapy / Git / matplotlib / plotly / seaborn / FastAPI / SQLModel / PostgreSQL / MongoDB / MLFlow / Docker / HTML /  CSS / Javascript / React 
+Skills: 
 
+ - Python / Numpy / Pandas / Scikit-Learn / XGBoost / Simpy / Numba / Scipy / Scrapy / Matplotlib / Seaborn / Plotly
+ - PyTorch / Keras / Tensorflow / Jax 
+ - Tensorflow Extended / MLFlow / Apache Spark / Apache Beam
+ - FastAPI / Git / Docker / PostgreSQL / MongoDB / HTML / CSS / Javascript / React 
 
 <!---
 VladimerKhasia/VladimerKhasia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
