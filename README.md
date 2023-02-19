@@ -7,8 +7,8 @@ Skills:
 
  - Python / Numpy / Pandas / Scikit-Learn / XGBoost / Simpy / Numba / Scipy / Scrapy / Matplotlib / Seaborn / Plotly
  - PyTorch / Keras / Tensorflow / Jax 
- - Tensorflow Extended / MLFlow / Apache Spark / Apache Beam
- - FastAPI / Git / Docker / PostgreSQL / MongoDB / HTML / CSS / Javascript / React 
+ - Tensorflow Extended / MLFlow / Kubeflow / Apache Spark / Apache Beam
+ - FastAPI / Git / Docker / Kubernetes / PostgreSQL / MongoDB / HTML / CSS / Javascript / React 
 
 <!---
 VladimerKhasia/VladimerKhasia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
