@@ -11,7 +11,7 @@ Skills:
  - FastAPI / Django / HTML / CSS / Javascript / React / Next / GraphQL
  - Git / Github / Weights & Biases 
  - MySQL / PostgreSQL / MongoDB 
- - Microsoft Power BI, Tableau
+ - Microsoft Power BI / Tableau
 
 <!---
 VladimerKhasia/VladimerKhasia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
