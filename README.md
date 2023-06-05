@@ -3,7 +3,7 @@
 
 I am currently working on applications of deep learning for drug design
 
-Skills: 
+Skills and Tools: 
 
  - Python / Numpy / Pandas / Scikit-Learn / XGBoost / Simpy / Numba / Scipy / Scrapy / Matplotlib / Seaborn / Plotly 
  - PyTorch / Keras / Tensorflow / Jax / and their ecosystems
