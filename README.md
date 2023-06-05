@@ -6,7 +6,7 @@ I am currently working on applications of deep learning for drug design
 Skills and Tools: 
 
  - Python / Numpy / Pandas / Scikit-Learn / XGBoost / Simpy / Numba / Scipy / Scrapy / Matplotlib / Seaborn / Plotly 
- - PyTorch / Keras / Tensorflow / Jax / and their ecosystems
+ - PyTorch / Keras / Tensorflow / Jax / and their ecosystems including geometric learning libraries
  - AWS / Apache Spark / Apache Beam / Docker / Kubernetes / Kubeflow / MLFlow / Tensorflow Extended / TorchServe
  - FastAPI / Django / HTML / CSS / Javascript / React / Next / GraphQL
  - Git / Github / Weights & Biases 
