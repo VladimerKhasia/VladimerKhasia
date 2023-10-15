@@ -1,7 +1,7 @@
 ### Hi 👋 I'm Lado 
 <!-- #### I am ML engineer / Data Scientist and Molecular Biologist with Bioinformatics skills -->
 
-I am currently working on applications of deep learning for drug design
+I am currently working on online learning and applications of AI for drug design
 
 Skills and Tools: 
 
