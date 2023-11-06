@@ -1,8 +1,6 @@
 ### Hi 👋 I'm Lado 
 <!-- #### I am ML engineer / Data Scientist and Molecular Biologist with Bioinformatics skills -->
 
-I am currently working on online learning and applications of AI for drug design
-
 Skills and Tools: 
 
  - Python / Numpy / Pandas / Scikit-Learn / XGBoost / Simpy / Numba / Scipy / Scrapy / Matplotlib / Seaborn / Plotly 
