@@ -5,9 +5,9 @@ Skills and Tools:
 
  - Python / Numpy / CuPy / NLTK / Pandas / Scikit-Learn / XGBoost / Simpy / Numba / Scipy / Scrapy / Matplotlib / Seaborn / Plotly 
  - PyTorch / Keras / Tensorflow / Jax / and their ecosystems including geometric learning libraries
- - AWS / Apache Spark / Apache Beam / Docker / Kubernetes / Kubeflow / MLFlow / Tensorflow Extended / TorchServe / LangChain
- - FastAPI / Django / HTML / CSS / Javascript / React / Next / GraphQL
- - Git / Github / Weights & Biases 
+ - AWS / Apache Spark / Apache Beam / Docker / Kubernetes / Kubeflow / MLFlow / Weights & Biases / GitHub Actions / Tensorflow Extended / TorchServe / LangChain 
+ - FastAPI / SQLAlchemy / Alembic / Pydantic / Pytest / HTML / CSS / Javascript / React / Next / GraphQL
+ - Git / Github 
  - MySQL / PostgreSQL / MongoDB 
  - Microsoft Power BI / Tableau
 
