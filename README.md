@@ -7,7 +7,7 @@ Skills and Tools:
  - PyTorch / Keras / Tensorflow / Jax / and their ecosystems including geometric learning libraries
  - AWS / Apache Spark / Apache Beam / Docker / Kubernetes / Kubeflow / MLFlow / Weights & Biases / GitHub Actions / Tensorflow Extended / TorchServe / LangChain 
  - FastAPI / SQLAlchemy / Alembic / Pydantic / Pytest / HTML / CSS / Javascript / React / Next / GraphQL
- - Git / Github 
+ - Git / Github / DVC
  - MySQL / PostgreSQL / MongoDB 
  - Microsoft Power BI / Tableau
 
